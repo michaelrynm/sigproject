@@ -23,7 +23,7 @@ export default function LandingPage() {
         <div className="grid grid-cols-2 items-center place-items-center">
           <div className="">
             <p className="font-bold text-[#030C59] text-5xl">
-              Useful <br /> Informations
+              Deskripsi
             </p>
             <p className="mt-8">
               Kabupaten Pati, yang dikenal sebagai "Kota Bumi Mina Tani",
